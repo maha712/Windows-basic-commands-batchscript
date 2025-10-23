@@ -1,6 +1,7 @@
 # Windows-basic-commands-batchscript
-Ex08-Windows-basic-commands-batchscript
+
 NAME:Mahalakshmi K
+
 REG NO:212222240057
 
 # AIM:
